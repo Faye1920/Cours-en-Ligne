@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781535671834",
+    "project_id": "coursligneauth",
+    "storage_bucket": "coursligneauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781535671834:android:e2df72ec5ca1e8dcbd43a3",
+        "android_client_info": {
+          "package_name": "com.example.cours_en_ligne"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGp_yJLvkyM4B4DuHWS4bGV7i1UpwuL4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
